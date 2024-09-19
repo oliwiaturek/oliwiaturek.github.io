@@ -1,11 +1,18 @@
 body
 
 {
-    background-color: blanchedalmond;
+    background-color: rgb(169, 200, 218);
 }
 
 p{
-    color: rgb(80, 189, 107);
+    color: rgb(5, 5, 5);
     font-size: large;
-    font-weight: small;
+    font-weight: bold;
+}
+
+div
+
+{
+    max-width: 1000px;
+    
 }
